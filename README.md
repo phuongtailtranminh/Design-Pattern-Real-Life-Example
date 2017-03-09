@@ -6,7 +6,9 @@
  
 ## Lazy Load
 - Hibernate Collection mapping by default is lazy load
+
 ## Factory
 - Orika - Bean Mapper
+
 ## Builder
 - Orika - Bean Mapper
